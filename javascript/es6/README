@@ -1,0 +1,7 @@
+* [ref]https://www.jianshu.com/p/21fc0768adc8
+
+* npm install --global babel-cli && npm install --save babel-preset-es2015
+* .babelrc { "presets": ['es2015'] }
+* babel-node test.js
+
+
