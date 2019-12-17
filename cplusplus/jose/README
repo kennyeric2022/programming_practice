@@ -1,0 +1,1 @@
+g++ main.cpp josex.cpp ring.cpp -o main
